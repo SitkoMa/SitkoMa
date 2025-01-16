@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SitkoMa
+- ⚡I am a beginner specialist in the field of Data Science.
+- ⚡I have completed courses in statistics, Big Data, and Python.
+- 💞️I am currently studying at Yandex.Practicum and hope to successfully enter the IT industry.
